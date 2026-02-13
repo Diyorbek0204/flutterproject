@@ -1,4 +1,4 @@
-#Mening birinchi loyxam
+# Mening birinchi loyxam
 
 Men bu loyxada faqatgina ekranga text chiqarishni va uni o'rtaga olib kelishni o'rgandim 
 
